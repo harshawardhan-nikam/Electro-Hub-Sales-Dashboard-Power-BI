@@ -151,7 +151,11 @@ using map visualization.
 
 ## Main Dashboard
 
-![Dashboard](Images/Dashboard.png)
+<img width="1275" height="723" alt="Screenshot 2026-07-31 163538" src="https://github.com/user-attachments/assets/25a9fa07-9426-4885-b1c5-b184b4a0afb4" />
+<img width="1075" height="607" alt="Screenshot 2026-07-31 163707" src="https://github.com/user-attachments/assets/fc6758ab-9f37-4e10-addc-217242321610" />
+<img width="1072" height="602" alt="Screenshot 2026-07-31 163654" src="https://github.com/user-attachments/assets/e5e0ae45-8b7e-4e83-bc4a-0b9a7d46e14f" />
+<img width="1082" height="603" alt="Screenshot 2026-07-31 163641" src="https://github.com/user-attachments/assets/cf96e6c5-7989-4515-a1b2-be84927c540d" />
+
 
 ---
 
